@@ -1,0 +1,59 @@
+{
+    "version": 1,
+    "license": "CC0-1.0",
+    "copyright": "Sprites by portfiend (GitHub)",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "bearmeat"
+        },
+        {
+            "name": "birdmeat"
+        },
+        {
+            "name": "bloodtomato"
+        },
+        {
+            "name": "bluetomato"
+        },
+        {
+            "name": "chanterelle"
+        },
+        {
+            "name": "friedegg"
+        },
+        {
+            "name": "fishmeat"
+        },
+        {
+            "name": "leaf"
+        },
+        {
+            "name": "chili"
+        },
+        {
+            "name": "chilly"
+        },
+        {
+            "name": "lizardmeat"
+        },
+        {
+            "name": "meat"
+        },
+        {
+            "name": "spidermeat"
+        },
+        {
+            "name": "tofu"
+        },
+        {
+            "name": "tomato"
+        },
+        {
+            "name": "xenomeat"
+        }
+    ]
+}

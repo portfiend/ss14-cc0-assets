@@ -1,0 +1,43 @@
+{
+    "version": 1,
+    "license": "CC0-1.0",
+    "copyright": "Sprites by portfiend (GitHub)",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "dog_down_base",
+            "directions": 4
+        },
+        {
+            "name": "dog_down_accent",
+            "directions": 4
+        },
+        {
+            "name": "dog_up_base",
+            "directions": 4
+        },
+        {
+            "name": "dog_up_accent",
+            "directions": 4
+        },
+        {
+            "name": "cat_ears",
+            "directions": 4
+        },
+        {
+            "name": "fins",
+            "directions": 4
+        },
+        {
+            "name": "headphones_base",
+            "directions": 4
+        },
+        {
+            "name": "headphones_accent",
+            "directions": 4
+        }
+    ]
+}

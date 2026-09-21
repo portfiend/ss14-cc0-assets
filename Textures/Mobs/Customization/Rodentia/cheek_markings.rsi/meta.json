@@ -1,0 +1,39 @@
+{
+    "version": 1,
+    "license": "CC0-1.0",
+    "copyright": "Sprites by portfiend (GitHub)",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "cheeks",
+            "directions": 4
+        },
+        {
+            "name": "cheeks_overlay",
+            "directions": 4
+        },
+        {
+            "name": "fluff",
+            "directions": 4
+        },
+        {
+            "name": "fluff_overlay",
+            "directions": 4
+        },
+        {
+            "name": "fluff_alt",
+            "directions": 4
+        },
+        {
+            "name": "fluff_alt_overlay",
+            "directions": 4
+        },
+        {
+            "name": "whiskers",
+            "directions": 4
+        }
+    ]
+}

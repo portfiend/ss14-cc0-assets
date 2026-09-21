@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "license": "CC0-1.0",
+    "copyright": "equipped-NECK by portfiend (GitHub)",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "equipped-NECK",
+            "directions": 4
+        }
+    ]
+}
