@@ -8,28 +8,13 @@
     },
     "states": [
         {
-            "name": "bearmeat"
+            "name": "blood_tomato"
         },
         {
-            "name": "birdmeat"
-        },
-        {
-            "name": "bloodtomato"
-        },
-        {
-            "name": "bluetomato"
+            "name": "blue_tomato"
         },
         {
             "name": "chanterelle"
-        },
-        {
-            "name": "friedegg"
-        },
-        {
-            "name": "fishmeat"
-        },
-        {
-            "name": "leaf"
         },
         {
             "name": "chili"
@@ -38,22 +23,37 @@
             "name": "chilly"
         },
         {
-            "name": "lizardmeat"
-        },
-        {
-            "name": "meat"
-        },
-        {
-            "name": "spidermeat"
-        },
-        {
-            "name": "tofu"
+            "name": "leaf"
         },
         {
             "name": "tomato"
         },
         {
-            "name": "xenomeat"
+            "name": "bear"
+        },
+        {
+            "name": "dragon"
+        },
+        {
+            "name": "fish"
+        },
+        {
+            "name": "lizard"
+        },
+        {
+            "name": "meat"
+        },
+        {
+            "name": "poultry"
+        },
+        {
+            "name": "spider"
+        },
+        {
+            "name": "tofu"
+        },
+        {
+            "name": "xeno"
         }
     ]
 }
